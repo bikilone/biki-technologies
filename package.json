@@ -1,0 +1,16 @@
+{
+  "name": "biki-technologies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://bikilone.github.io/biki-technologies",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
